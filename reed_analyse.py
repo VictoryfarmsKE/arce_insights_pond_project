@@ -18,7 +18,7 @@ from urllib3.exceptions import NewConnectionError, MaxRetryError
 from requests.exceptions import ConnectionError
 
 
-api_key = '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'
+api_key = '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'
 
 prompt_v3 = """
             I will provide you with an image of a pond, the pond has a colored tube like structure in the middle, the colored tube is used to indicate water levels, colors are ordered as follow from top to bottom: 
