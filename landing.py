@@ -85,7 +85,7 @@ with st.sidebar:
                 st.image(
                     uploaded_file,
                     caption=search_query,
-                    use_column_width=True,
+                    use_container_width=True,
                 )
 
                 st.header('Summary')
